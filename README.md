@@ -8,13 +8,6 @@ This project predicts the priority of customer support tickets using Machine Lea
 
 To classify support tickets based on priority and help support teams handle important issues faster.
 
-## Technologies Used
-
-* Python
-* Machine Learning
-* Pandas
-* Scikit-learn
-
 ## Features
 
 * Predicts ticket priority
